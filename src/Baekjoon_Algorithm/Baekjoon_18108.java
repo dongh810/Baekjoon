@@ -1,3 +1,5 @@
+package Baekjoon_Algorithm;
+
 import java.util.Scanner;
 
 public class Baekjoon_18108 {
