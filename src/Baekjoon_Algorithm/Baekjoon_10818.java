@@ -3,7 +3,7 @@ package Baekjoon_Algorithm;
 import java.util.*;
 
 public class Baekjoon_10818{
-    public static void main(String args[]){
+    public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int size = input.nextInt(); //주어질 정수의 개수
         int num;
