@@ -1,3 +1,5 @@
+package Baekjoon_Algorithm;
+
 import java.util.*;
 
 public class Baekjoon_10818{
