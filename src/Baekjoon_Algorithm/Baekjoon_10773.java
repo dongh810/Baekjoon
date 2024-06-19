@@ -10,8 +10,6 @@ import java.util.StringTokenizer;
 
 public class Baekjoon_10773 {
     public static BufferedReader br;
-    public static StringBuilder sb;
-    public static StringTokenizer st;
     public static int K;
     public static int[] numArray;
     public static int inputNum;
