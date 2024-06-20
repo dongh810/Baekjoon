@@ -9,6 +9,7 @@ import java.util.StringTokenizer;
 // 총인원수 int pNum
 // 사이즈별 신청자의 수 list orderList
 // 티셔츠의 묶음 수 shirts / 펜의 묶음 수 pens / 개별 팬의 수 singlePen
+// 총 주문 티셔츠 묶음 수 shirtGroup / 총 주문 펜 묶음 수 penGroup
 public class Baekjoon_30802 {
     public static BufferedReader br;
     public static StringBuilder sb;
